@@ -19,19 +19,19 @@ Each tip keeps the original format: Cost, In plain terms, Benefit, Evidence grad
 
 | 章 / Chapter | 文件 / File |
 |---|---|
-| 01 不要早死 / Don't die early | [book/01-不要早死.md](book/01-不要早死.md) |
-| 02 不要慢慢死 / Don't die slowly | [book/02-不要慢慢死.md](book/02-不要慢慢死.md) |
+| 01 不要早死 / Don't die early | [上 Part 1](book/01-不要早死-上.md) · [下 Part 2](book/01-不要早死-下.md) |
+| 02 不要慢慢死 / Don't die slowly | [上 Part 1](book/02-不要慢慢死-上.md) · [下 Part 2](book/02-不要慢慢死-下.md) |
 | 03 不要浪费精力 / Don't waste energy | [book/03-不要浪费精力.md](book/03-不要浪费精力.md) |
 | 04 不要浪费时间 / Don't waste time | [book/04-不要浪费时间.md](book/04-不要浪费时间.md) |
 | 05 不要浪费钱 / Don't waste money | [book/05-不要浪费钱.md](book/05-不要浪费钱.md) |
-| 06 反面清单 / Don't-buy list | [book/06-反面清单.md](book/06-反面清单.md) |
+| 06 反面清单 / Don't-buy list | [上 Part 1](book/06-反面清单-上.md) · [下 Part 2](book/06-反面清单-下.md) |
 | 07 没钱的时候怎么活 / When you're broke | [book/07-没钱的时候怎么活.md](book/07-没钱的时候怎么活.md) |
 | 08 别把自己搭进去 / Don't get yourself in legal trouble | [book/08-别把自己搭进去.md](book/08-别把自己搭进去.md) |
 | 09 普通人容易踩的法律红线 / Legal red lines for ordinary people | [book/09-普通人容易踩的法律红线.md](book/09-普通人容易踩的法律红线.md) |
 | 10 恋爱和结婚划不划算 / Dating and marriage: worth it? | [book/10-恋爱和结婚划不划算.md](book/10-恋爱和结婚划不划算.md) |
 | 11 程序员和技术人容易踩的红线 / Red lines for programmers | [book/11-程序员和技术人容易踩的红线.md](book/11-程序员和技术人容易踩的红线.md) |
 | 12 创业与做生意 / Starting a business | [book/12-创业与做生意.md](book/12-创业与做生意.md) |
-| 13 紧急情况 / Emergencies | [book/13-紧急情况.md](book/13-紧急情况.md) |
+| 13 紧急情况 / Emergencies | [上 Part 1](book/13-紧急情况-上.md) · [下 Part 2](book/13-紧急情况-下.md) |
 | 14 账号与信息安全 / Account & info security | [book/14-账号与信息安全.md](book/14-账号与信息安全.md) |
 | 15 租房与买房 / Renting & buying a home | [book/15-租房与买房.md](book/15-租房与买房.md) |
 | 16 得了慢性病之后怎么活 / Living with chronic illness | [book/16-得了慢性病之后怎么活.md](book/16-得了慢性病之后怎么活.md) |
