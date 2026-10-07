@@ -7,9 +7,9 @@
 
 ## 这是什么 / What this is
 
-这是 [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)（《高性价比人生指南》，CC BY 4.0）的加州改编版。原书 665 条建议、34 章，**本版与原书章节、条目编号一一对应**，把其中所有中国大陆的法律法规、行政流程替换为加州/美国联邦的对应内容，并**全文中英双语**。
+这是 [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)（《高性价比人生指南》，CC BY 4.0）的加州改编版。原书 665 条建议、34 章，**第 1–34 章与原书章节、条目编号一一对应**，把其中所有中国大陆的法律法规、行政流程替换为加州/美国联邦的对应内容，并**全文中英双语**。第 35 章《加州税务规划》是本版新增的原创章节（原书没有对应的税务专章）。
 
-This is a California adaptation of [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) (665 tips, 34 chapters, CC BY 4.0). Chapters and item numbers map 1:1 to the original. All mainland-China laws and administrative procedures have been replaced with their California / U.S. federal counterparts, and **the entire text is bilingual (Chinese–English)**.
+This is a California adaptation of [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) (665 tips, 34 chapters, CC BY 4.0). Chapters 1–34 map 1:1 to the original. All mainland-China laws and administrative procedures have been replaced with their California / U.S. federal counterparts, and **the entire text is bilingual (Chinese–English)**. Chapter 35 (California Tax Planning) is an original chapter added for this edition (the original has no dedicated tax-planning chapter).
 
 每条建议保留原书的格式：花掉什么（成本 / Cost）、说人话（In plain terms）、收益（Benefit）、证据等级（Evidence grade A/B/C）、来源（Sources）。条目按性价比从高到低排列——挑走一两条就算数，不是任务清单。
 
@@ -53,6 +53,7 @@ Each tip keeps the original format: Cost, In plain terms, Benefit, Evidence grad
 | 32 出国留学 / Studying abroad | [book/32-出国留学.md](book/32-出国留学.md) |
 | 33 残疾之后怎么活 / Living with disability | [book/33-残疾之后怎么活.md](book/33-残疾之后怎么活.md) |
 | 34 家里的常备药别吃出事 / Home medicine cabinet safety | [book/34-家里的常备药别吃出事.md](book/34-家里的常备药别吃出事.md) |
+| 35 加州税务规划 / California tax planning（本版新增原创章节 / new in this edition） | [上 Part 1](book/35-加州税务规划-上.md) · [下 Part 2](book/35-加州税务规划-下.md) |
 
 ## 主要本地化改动 / Key localizations
 
